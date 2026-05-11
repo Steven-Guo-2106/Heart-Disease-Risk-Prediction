@@ -19,6 +19,8 @@ The Streamlit application allows users to:
 - Enter patient health information
 - Generate real-time CHD risk predictions
 - Interactively explore model outputs
+
 Run the app with:
+
 ```streamlit run app.py```
 
