@@ -20,5 +20,5 @@ The Streamlit application allows users to:
 - Generate real-time CHD risk predictions
 - Interactively explore model outputs
 Run the app with:
-```streamlit run streamlit_app.py```
+```streamlit run app.py```
 
